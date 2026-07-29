@@ -17,6 +17,42 @@
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://peerpush.com/p/gitcity" target="_blank" rel="noopener">
+  <img
+    src="https://peerpush.com/p/gitcity/badge.png"
+    alt="GitCity on PeerPush"
+    width="180"
+  />
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.producthunt.com/products/gitcity/launches/gitcity?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-gitcity"
+   target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1113209&theme=light"
+    alt="Featured on Product Hunt"
+    width="210"
+  />
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.producthunt.com/products/gitcity/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_campaign=badge-gitcity"
+   target="_blank" rel="noopener">
+  <img
+    src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1195254&theme=light"
+    alt="Review GitCity on Product Hunt"
+    width="210"
+  />
+</a>
+</td>
+</tr>
+</table>
+
 ## What is GitCity?
 
 GitCity fetches your **entire GitHub contribution history** via the GitHub GraphQL API and renders it as an interactive 3D city — no token required, no login, no paywall.
